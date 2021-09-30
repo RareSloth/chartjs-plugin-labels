@@ -4,7 +4,7 @@
   "description": "Chart.js plugin to display labels on pie, doughnut and polar area chart.",
   "main": "src/chartjs-plugin-labels.js",
   "peerDependencies": {
-    "chart.js": "^3.5.1"
+    "chart.js": "^2.9.4"
   },
   "repository": {
     "type": "git",
